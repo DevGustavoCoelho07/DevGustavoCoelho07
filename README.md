@@ -15,6 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=50px height=50px />
  </div>
 
+<hr></hr>
+
+- Meu Linkedin : https://www.linkedin.com/in/gustavo-coelho-silva07/
+
 #### Possuo alguns repositórios, vale a pena conferir! 👇
 
 - [Projetos Front end](https://github.com/DevGustavoCoelho07/Projetos-FrontEnd)
