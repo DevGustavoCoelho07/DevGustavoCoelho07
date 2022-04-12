@@ -20,5 +20,7 @@
 - [Projetos Front end] (https://github.com/DevGustavoCoelho07/Projetos-FrontEnd)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGustavoCoelho07&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
