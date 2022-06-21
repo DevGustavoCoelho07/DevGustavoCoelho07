@@ -24,7 +24,7 @@
 
 - Meu Linkedin : https://www.linkedin.com/in/gustavo-coelho-silva07/
 
-#### Repositórios que possa lhe interessar 👀
+#### Repositórios que lhe possam interessar 👀
 
 - [Projetos Front end](https://github.com/DevGustavoCoelho07/Projetos-FrontEnd)
 - [Gerador de Lorem Ipsum](https://github.com/DevGustavoCoelho07/Gerador_de_Lorem)
