@@ -24,9 +24,10 @@
 
 - Meu Linkedin : https://www.linkedin.com/in/gustavo-coelho-silva07/
 
-#### Possuo alguns repositórios, vale a pena conferir! 👇
+#### Repositórios que possa lhe interessar 👀
 
 - [Projetos Front end](https://github.com/DevGustavoCoelho07/Projetos-FrontEnd)
+- [Gerador de Lorem Ipsum](https://github.com/DevGustavoCoelho07/Gerador_de_Lorem)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGustavoCoelho07&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
