@@ -1,6 +1,6 @@
-# 👋 Olá, meu nome é Gustavo Coelho e sou desenvolvedor Fullstack, atualmente com foco no Front End.
+# 💻 Gustavo Coelho, desenvolvedor Fullstack.
 
-## Bem Vindo Ao meu GITHUB!!! 👋
+
 <div style="display:inline;">
   
 #### Tecnologias
@@ -16,6 +16,10 @@
  </div>
 
 <hr></hr>
+
+### Portifólio
+
+- Portifólio com projetos exclusivos : https://devgustavocoelho07.vercel.app/
 
 - Meu Linkedin : https://www.linkedin.com/in/gustavo-coelho-silva07/
 
