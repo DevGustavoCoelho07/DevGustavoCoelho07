@@ -18,9 +18,9 @@
 
 <hr></hr>
 
-### Portifólio
+### Portfólio
 
-- Portifólio com projetos exclusivos : https://devgustavocoelho07.vercel.app/
+- Portfólio com projetos exclusivos : https://devgustavocoelho07.vercel.app/
 
 - Meu Linkedin : https://www.linkedin.com/in/gustavo-coelho-silva07/
 
